@@ -1,0 +1,136 @@
+{
+    "name": "Rupam Patil",
+    "logo_name": "rupam-patil",
+    "role": "Data Scientist",
+    "about": {
+        "sections": {
+            "professional-info": {
+                "title": "professional-info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "experience": {
+                        "title": "experience",
+                        "description": "<br>• Developed and deployed machine learning models and RAG-based chatbots on Azure OpenAI and its services using Python, MSSQL and Fast API, elevating enterprise digital capabilities.<br><br>• Engineered secure, end-to-end ETL pipelines and big data workflows across Azure environments, supporting large-scale anomaly detection in financial transactions.<br><br>• Analyzed Gravitational Wave signals at IUCAA-LIGO using unsupervised learning and neural networks (CNN, LSTM).<br><br>• Enhanced real-time video privacy at DRDO by developing DL-driven object detection pipelines using YOLOv8 and OpenCV.<br><br>• Led a team to secure 3rd position in BNY Mellon Hackathon with a customer complaints classification system."
+                    },
+                    "hard-skills": {
+                        "title": "hard-skills",
+                        "description": "<br>• Languages/Packages: Python (TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, OpenCV)<br><br>• Technologies/Tools: Linux, GitHub, MS Excel, PowerBI, AWS, Azure, Jira<br><br>• Databases: MSSQL, PostgreSQL, Azure SQL<br><br>• Core Skills: Machine Learning, Deep Learning, NLP, Large Language Models (LLMs), Gen AI, Cloud Security, ETL Pipeline Development<br><br>• Cloud Platforms: Azure (OpenAI, Machine Learning), AWS"
+                    },
+                    "soft-skills": {
+                        "title": "soft-skills",
+                        "description": "<br>• Leadership: Led AiSA team of 70 members and hackathon teams<br><br>• Communication: Effectively presented technical solutions to stakeholders<br><br>• Problem-Solving: Demonstrated through hackathon wins and complex project implementations<br><br>• Team Collaboration: Successfully worked across cross-functional teams in enterprise environments<br><br>• Project Management: Managed end-to-end delivery of AI solutions with Agile methodologies"
+                    }
+                }
+            },
+            "personal-info": {
+                "title": "personal-info",
+                "icon": "icons/info-personal.svg",
+                "info": { 
+                    "bio": {
+                        "title": "bio",
+                        "description": "<br>I am an Data Scientist with hands-on experience in building end-to-end AI solutions—from RAG chatbots to anomaly detection models—and scaling them on Azure & AWS with secure ETL pipelines. With a CGPA of 9.23 in B.Tech (AI & DS), I bring strong foundations in ML, Deep Learning, and Cloud Security while driving impact through real-world projects at KNAV India, IUCAA (LIGO Project), and DRDO. My journey includes leading teams, winning hackathons, and delivering data-driven innovations that blend technical expertise with business outcomes."
+                    },
+                    "interests": {
+                        "title": "interests",
+                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    },
+                    "education": {
+                        "title": "education",
+                        "description": "<br><strong>Vishwakarma Institute of Information Technology, Pune</strong><br>B.Tech in Artificial Intelligence and Data Science<br>CGPA: 9.23 | Nov. 2021 – May 2025<br><br>Key Coursework:<br>• Gen AI & Large Language Models<br>• Natural Language Processing<br>• Deep Learning & Neural Networks<br>• Object-Oriented Programming<br>• Database Management Systems (DBMS)<br>• Cloud Security<br>• Artificial Intelligence<br>• Machine Learning",
+                        "files": {
+                            "university": "Vishwakarma Institute of Information Technology (VIIT), Pune"
+                            
+                        }
+                    }
+                }
+            },
+            "hobbies-info": {
+                "title": "hobbies-info",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "sports": {
+                        "title": "sports",
+                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    },
+                    "favorite-games": {
+                        "title": "favorite-games",
+                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "contacts",
+            "sources": {
+                "email": "patilrupam2003@gmail.com",
+                "phone": "+91 9764646702"
+            }
+        },
+        "social": {
+            "github": {
+                "title": "Github profile",
+                "url": "https://github.com/Rupam0310",
+                "user": "Rupam0310"
+            },
+            "linkedin": {
+                "title": "LinkedIn profile",
+                "url": "https://www.linkedin.com/in/rupam-patil-470848223/",
+                "user": "rupam-patil-470848223"
+            }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "youtube": {
+                    "title": "YouTube channel",
+                    "url": "https://www.youtube.com/",
+                    "user": "username"
+                },
+                "gurushots": {
+                    "title": "GuruShots profile",
+                    "url": "https://gurushots.com/",
+                    "user": "username"
+                },
+                "instagram": {
+                    "title": "Instagram account",
+                    "url": "https://instagram.com/",
+                    "user": "username"
+                },
+                "twitch": {
+                    "title": "Twitch profile",
+                    "url": "https://twitch.com/",
+                    "user": "username"
+                }
+            }
+        }
+    },
+    "gists": {
+        "1": "83861a67e377633ee8368df01ee3a355",
+        "2": "694c1f32332788a2ac7f37b09e5aa40e"
+    },
+    "projects": {
+        "1": {
+            "title": "_privacy_management",
+            "description": "Enhanced real-time video privacy using YOLOv8 and OpenCV, achieving 90% accuracy in masking sensitive regions. Designed Python GUI for ML model integration, reducing configuration time by 40%.",
+            "img": "/images/projects/privacy-management.png",
+            "tech": ["Python", "OpenCV", "PyTorch"],
+            "url": "https://github.com/Rupam0310/Privacy-Management-in-Real-time-videos"
+        },
+        "2": {
+            "title": "_customer_complaints",
+            "description": "Built ML-based complaint classification system using Naive Bayes (88% accuracy) and SVM. Engineered text processing pipelines using TF-IDF vectorization for analyzing 10,000+ banking complaints.",
+            "img": "/images/projects/customer-complaints.png",
+            "tech": ["Python", "Scikit-learn", "NLP"],
+            "url": "https://github.com/Rupam0310/Customer-Complaints-Classification"
+        },
+        "3": {
+            "title": "_machine_failure",
+            "description": "Developed ML model using Random Forest Classifier (94% accuracy) to predict machine failures. Used SMOTE oversampling for handling class imbalance in rare failure predictions.",
+            "img": "/images/projects/machine-failure.png",
+            "tech": ["Python", "ML", "Data Analysis"],
+            "url": "https://github.com/Rupam0310/OptiHealth-Machine-Failure-Prediction"
+        }
+    }
+}

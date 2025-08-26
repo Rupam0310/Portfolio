@@ -1,8 +1,8 @@
 <h1 align="center">
-  developer-portfolio-v2
+  Portfolio
 </h1>
 <p align="center">
-  The first open source version of <a href="https://www.figma.com/community/file/1100794861710979147" target="_blank"> Portfolio for Developers Concept V.2</a>, designed by <a href="https://www.behance.net/darelova" target="_blank">@darelova</a> and developed by <a href="https://github.com/Rupam0310">@Rupam0310</a>. Built with <a href="https://nuxt.com/" target="_blank">Nuxt.js 3.0</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+  The first open source version of <a href="https://www.figma.com/community/file/1100794861710979147" target="_blank"> Personal Portfolio </a>, designed by <a href="https://www.behance.net/darelova" target="_blank">@darelova</a> and developed by <a href="https://github.com/Rupam0310">@Rupam0310</a>. Built with <a href="https://nuxt.com/" target="_blank">Nuxt.js 3.0</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 </p>
 <div align="center">
 
